@@ -1,2 +1,2 @@
-# Discord-counting-obt
-A python code for automatically counting for you
+# Discord-counting-bot
+A python code that will automatically count for you in discord server
