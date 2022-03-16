@@ -7,7 +7,6 @@ Created this because the discord server I was in had a counting channel and I ne
 
 ![image](https://user-images.githubusercontent.com/62205099/158039107-50b0d792-01e7-4eb2-8ea6-66d917501bf3.png)
 
-Note that the bot only works with simple GUI set up in discord settings as it coppies the last message and not downloads from the API
-For getting coordinated you can use the code provided or other tools like ShareX
+Note that the bot only works with simple GUI set up in discord settings as it coppies the last message and not downloads from the API. For getting coordinated you can use the code provided or other tools like ShareX as seen in the screenshot.
 
 ![image](https://user-images.githubusercontent.com/62205099/158039312-a436f909-474f-42dc-8514-33cd30390692.png)
